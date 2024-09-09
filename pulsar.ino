@@ -11,7 +11,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
-bool ledOn = true;// change this to true to get cool led effect (only on fire)
+bool ledOn = true;
 
 
 WebServer server(80);
