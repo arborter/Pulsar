@@ -1,4 +1,4 @@
-# pulsar
+# WiText
 The Pulsar is a device that does the following: 
 - Scans WiFi
 - Selects a Network
