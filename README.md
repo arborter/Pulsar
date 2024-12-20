@@ -1,5 +1,5 @@
 # WiText
-The Pulsar is a device that does the following: 
+The WiText is a device that does the following: 
 - Scans WiFi
 - Selects a Network
 - Shows WiFi Network details (channel, security protocol, signal strength, MAC address)
